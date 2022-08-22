@@ -14,8 +14,10 @@ The image has the following tools installed.
 - Pipenv 2022.8.19
 - Pip 22.0.4
 - CDK Version 2.37.1
+- Amplify CLI
+- Quasar CLI
 
-Source available [here](https://github.com/learncloudops/cdk-build-image)
+Source available [here](https://github.com/learncloudops/cdk-quasar-build-image)
 
 ---
 
